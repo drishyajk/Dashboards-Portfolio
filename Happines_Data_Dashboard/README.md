@@ -1,4 +1,5 @@
 Objective :
+
 The purpose of this dashboard is to analyze and visualize the World Happiness Report across multiple counties and regions from 2015 to 2019 . The main objective is to identify the factors affecting happiness, evaluate its impact and visualize happiness trends using interactive dashboards.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -32,6 +33,7 @@ During the EDA process, the following steps were carried out before visualizatio
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Conclusion:
+
 -   Happiness is strongly influenced by economic prosperity, social support and health, while generosity and trust show weaker but region-specific impacts.
 -   Western European countries consistently rank highest, showing a balance of wealth, equality, and well-being.
 -   Regions like Sub-Saharan Africa highlight the need for improved living standards and institutional trust.
