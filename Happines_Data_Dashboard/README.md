@@ -12,7 +12,7 @@ During the EDA process, the following steps were carried out before visualizatio
     -   Validated data types to ensure numerical and categorical fields were consistent.
     -   Standardized and corrected column name ambiguities across multiple tables.
     -   Added a new Year column to distinguish data from different tables.
-    -   Identified that some tables were missing the Region column → merged them with reference tables that had complete region information.
+    -   Identified that some tables were missing the Region column ,merged them with reference tables that had complete region information.
     -   Filled missing region values after merging.
     -   Appended all yearly tables into a single master dataset for further visualization.
         
@@ -23,7 +23,7 @@ During the EDA process, the following steps were carried out before visualizatio
         -   Most Happiest Country with Aerage Happiness Score
         -   Least Happiest Country with Average Happiness Score
     -   Unpivoted factor columns (GDP, Family, Freedom, Health, Generosity, Trust) to allow yearly comparison of each factor’s contribution to happiness scores.
-    -   
+       
 3.  Exploratory Insights
     -   We found a total of 166 countries and 11 regions being included in the dataset.
     -   Countries like Denmark, Switzerland, Norway and Finland consistently appear among the top happiest countries.
