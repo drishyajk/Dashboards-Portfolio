@@ -20,7 +20,7 @@ During the EDA process, the following steps were carried out before visualizatio
     -   Converted Year and Region into a slicer for dynamic filtering.
     -   Created DAX queries for calculating:
         -   Average Happiness Score
-        -   Most Happiest Country with Aerage Happiness Score
+        -   Most Happiest Country with Average Happiness Score
         -   Least Happiest Country with Average Happiness Score
     -   Unpivoted factor columns (GDP, Family, Freedom, Health, Generosity, Trust) to allow yearly comparison of each factor’s contribution to happiness scores.
        
