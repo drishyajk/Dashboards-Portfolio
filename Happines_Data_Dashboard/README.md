@@ -4,6 +4,7 @@ The purpose of this dashboard is to analyze and visualize the World Happiness Re
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Exploratory Data Analysis (EDA) :
+
 During the EDA process, the following steps were carried out before visualization in Power BI:
 
 1.  Data Cleaning
