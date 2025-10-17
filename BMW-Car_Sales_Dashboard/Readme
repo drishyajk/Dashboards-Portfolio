@@ -1,1 +1,92 @@
 
+Purpose:
+
+The purpose of this Power BI dashboard is to provide a comprehensive analysis of BMW car sales data across various years, regions, and model categories. 
+
+It enables stakeholders to:
+
+- Monitor sales performance across multiple car models and fuel types.
+
+- Identify top-performing regions and colors preferred by customers.
+
+- Understand year-over-year sales trends and overall market performance.
+
+- Support data-driven decision-making for marketing, production, and pricing strategies.
+________________________________________________________________________________________________________________________________________________________________
+
+Exploratory Data Analysis (EDA): 
+
+1. Data Overview
+
+Total Models Analyzed: 11
+
+Total Units Sold: 253 Million
+
+Average Car Price: $75.03K
+
+2. Sales by Model
+
+The 7 Series model leads with 24M units sold, followed closely by 3 Series, i3, M5, and X Series models.
+
+Indicates strong performance in both luxury sedans and SUV segments.
+
+3. Sales by Region
+
+Major sales concentration in North America and Europe, showing BMW’s dominance in developed automotive markets.
+
+Asia and Africa show moderate growth potential for future expansion.
+
+4. Sales by Colour
+
+Top-selling colours are Red (634M) and White (626M), followed by Silver and Blue, reflecting consumer preference for classic car shades.
+
+Black ranks slightly lower, indicating a potential market trend shift.
+
+5. Sales by Fuel Type
+
+Sales are evenly distributed across fuel types:
+
+Petrol: 24.99%
+
+Electric: 24.93%
+
+Diesel: 24.61%
+
+Hybrid: 25.47%
+
+Demonstrates BMW’s balanced focus on conventional and sustainable technologies.
+
+6. Sales by Year
+
+Sales have shown fluctuating trends between 2010–2024.
+
+Peak sales observed around 2019 and 2023, with a slight dip during 2020, possibly due to global market disruptions.
+
+Indicates strong post-pandemic recovery and growth.
+_____________________________________________________________________________________________________________________________________________________________
+
+Conclusion:
+
+The BMW Car Sales Dashboard provides key insights into sales performance, market preferences, and global reach.
+Key takeaways include:
+
+BMW’s sales are consistent across multiple models, showcasing product diversity.
+
+The luxury and SUV segments are the brand’s strongest performers.
+
+Sales trends highlight resilience and adaptability, especially after market downturns.
+
+Growing balance in fuel type sales signals BMW’s effective transition toward electric and hybrid mobility.
+
+Regional insights suggest growth potential in emerging markets like Asia and Africa.
+
+Overall, this Power BI dashboard serves as a strategic analytics tool to understand BMW’s global sales dynamics and support data-driven business decisions.
+______________________________________________________________________________________________________________________________________________________________
+
+Tools & Technologies:
+
+Tool Used: Microsoft Power BI
+
+Data Source: BMW Car Sales Dataset
+
+Key Features: Slicers, Map Visualization, KPI Cards, Donut & Line Charts, Tree Maps
